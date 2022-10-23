@@ -1738,10 +1738,16 @@ section {
 .btn-cart:hover {
   cursor: pointer;
 }
+.btn-cart{
+  position: relative !important;
+  width: 30px !important;
+  display:block;
+}
 .btn-cart i {
   font-size: 25px !important;
-  position: relative;
-  color: #7f7f90;
+  position: relative !important;
+  color: #7f7f90 !important;
+ 
 }
 .img-box {
   aspect-ratio: 0.9;

@@ -67,22 +67,25 @@
                         </form>
                     </li>
                     <li>
-                        <a href="cart.php" class="btn-cart"><i class="bi bi-cart2"></i>
-                            <span
-                                class="position-absolute top-1 start-100 translate-middle badge rounded-pill bg-danger">
-                                10
-                            </span>
+                        <a href="cart.php">
+                            <span class="btn-cart"><i class="bi bi-cart2"></i>
+                                <span
+                                    class="position-absolute top-1 start-100 translate-middle badge rounded-pill bg-danger">
+                                    10
+                                </span>
+                                <span>
                         </a>
+                    </li>
+                    <li><a href="dangnhap.php"><span><i class="bi bi-box-arrow-in-right"
+                                    style="font-size: 25px !important; margin-right:10px;"></i> Đăng nhập </span></a>
                     </li>
                 </ul>
             </nav>
             <!-- .navbar -->
-
             <a class="btn-book-a-table" href="contact.php">Liên hệ</a>
-
-
             <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
             <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+
 
         </div>
     </header><!-- End Header -->
